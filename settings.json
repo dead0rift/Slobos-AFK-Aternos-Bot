@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "suzumeDIS.aternos.me",
+    "ip": "suzumeDIS.aternos.me:21651",
     "port": 21651,
     "version": "1.21.11",
     "try-creative": false
